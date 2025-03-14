@@ -1,4 +1,4 @@
-# Guide Fedora
+# Fedora
 
 1. [Préparation du système](#1-préparation-du-système)
 2. [Optimisation de DNF](#2-optimisation-de-dnf)
