@@ -13,8 +13,6 @@
 11. [Installation des outils de compression](#11-installation-des-outils-de-compression)
 12. [Installation d'applications diverses](#12-installation-dapplications-diverses)
 13. [Intelligence Artificielle](#13-intelligence-artificielle)
-14. [Guides divers](#14-guides-divers)
-15. [Dépannage et Conseils](#15-dépannage-et-conseils)
 
 <br>
 
@@ -345,17 +343,3 @@ podman run --replace -d --network=host -v open-webui:/app/backend/data -e OLLAMA
 
 L'interface Open WebUI est accessible dans un navigateur en local à cette adresse :
 [http://localhost:8080](http://localhost:8080)
-
-## 14. Guides divers
-
-- **[Formater et monter un disque](/Gaming-Linux-FR/guide-formater-monter)** : Formater et monter au démarrage ses disques / SSD internes sur Linux
-- **[Astuces](/Gaming-Linux-FR/glf-astuces)** : Astuces diverses, ne concernant pas une distribution spécifique.
-- **[Steam](/Gaming-Linux-FR/steam-post-install)** : Guide de post-installation pour Steam
-
-## 15. Dépannage et Conseils
-
-Ce guide vise à offrir une introduction complète à l'utilisation de Fedora pour le gaming et le multimédia. Pour des problèmes spécifiques, n'hésitez pas à rejoindre notre discord : 
-
-[![Rejoignez notre Discord](https://img.shields.io/badge/Discord-Rejoignez%20notre%20serveur-blue?style=for-the-badge&logo=discord)](https://discord.gg/WCAKxxRA3t)
-
-Ce guide est destiné à être régulièrement mis à jour. Vos retours et contributions sont les bienvenus pour aider à enrichir cette ressource et assister d'autres utilisateurs dans leur expérience Fedora.
